@@ -1,16 +1,9 @@
 # flutter_pokedex
 
-A new Flutter project.
+A pokedex developed with Flutter.
 
-## Getting Started
+![01a59e8a-ed49-4c34-90d5-ddfd712ea448](https://user-images.githubusercontent.com/112648606/191322836-7d166fd2-1a23-4cd9-8435-3b3b50c63323.jpg)
 
-This project is a starting point for a Flutter application.
+![04e13763-89fb-4cbd-b57e-33a27a99eb2a](https://user-images.githubusercontent.com/112648606/191322842-6f60efdf-19a9-48b7-961e-7156193e48a8.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5ad80080-0939-46fb-a9a7-138c2a00d6e1](https://user-images.githubusercontent.com/112648606/191322851-f8c3ed99-29a0-446b-9931-20b7d47232f4.jpg)
